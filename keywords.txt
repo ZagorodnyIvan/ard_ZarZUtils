@@ -1,0 +1,8 @@
+#######################################
+# Syntax Coloring Map for library ZarZUtils
+#######################################
+
+#######################################
+# KEYWORD1 Classes, datatypes, and C++ keywords
+#######################################
+ZarZUtils	KEYWORD1
