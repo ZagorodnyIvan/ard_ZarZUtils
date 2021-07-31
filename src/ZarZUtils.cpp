@@ -12,6 +12,6 @@ String ZarZUtils::Input(){
     aa= aa + a;
 
     a = Serial.read();
-    return(aa);
     }
+  return(aa);
 }
