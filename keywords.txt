@@ -6,3 +6,4 @@
 # KEYWORD1 Classes, datatypes, and C++ keywords
 #######################################
 ZarZUtils	KEYWORD1
+Input   	KEYWORD2

@@ -5,10 +5,10 @@
 
 
 
-class RC522_RFID_Utilities
+class ZarZUtils
 {
 public:
-	String Input();
+String Input();
 
 
 	};

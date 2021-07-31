@@ -3,11 +3,8 @@
 #include <string.h>
 #include <stdlib.h>
 
-ZarZUtils::ZarZUtils()
 
-
-String ZarZUtils::Input()
-{
+String ZarZUtils::Input(){
   char a=Serial.read();
   String aa="";
   while(a!=-1 ){
