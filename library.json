@@ -1,13 +1,13 @@
 {
-  "name": "MFRC522",
-  "version": "1.4.8",
+  "name": "ZarZUtils",
+  "version": "0.1",
   "license": "Unlicense",
-  "keywords": "rfid, spi",
-  "description": "Read a card using a MFRC522 reader on your SPI interface.",
+  "keywords": "utils",
+  "description": "Utilities made by ZarZ",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/miguelbalboa/rfid.git"
+    "url": "https://github.com/ZagorodnyIvan/ard_ZarZUtils.git"
   },
   "exclude": "doc",
   "frameworks": "arduino",
